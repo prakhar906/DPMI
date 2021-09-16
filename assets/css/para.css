@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+   }
+.banner{
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-right:90px;
+    border-radius: 18px;
+}
+
+   #heading{
+
+   display: block;
+  color:white ;
+  font-family: 'Lato', sans-serif;
+   font-size: 2.5rem;
+   text-align: center;
+   margin-bottom: 50px;
+
+}  
+.head1{
+
+    color:white;
+    font-family: 'Lato', sans-serif;
+    margin-left: 50px;;
+}
+img{
+
+height:300px;
+width: 500px;
+margin-left: 74px;
+border-radius: 20px;
+
+}
+.p1{
+
+    margin:10px 200px 11px 74px;
+    text-align: justify;
+    font-size: 20px;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+.head2{
+    color: success;
+    margin-left: 74px;
+    margin-top: 42px;
+    font-size: 1.4rem;
+    font-family: 'Lato', sans-serif;
+}
+ul li{
+
+    margin-left: 92px;
+    font-size: 1.2rem;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+
+.head3{
+    color: ;
+    margin-left: 74px;
+    font-size: 1.4rem;
+    font-family: 'Lato', sans-serif;
+}
+
+.crse1{
+    margin-left: 74px;
+    margin-top: 26px;
+    margin-bottom: 17px;
+}
+.prgrm1{
+    color:;
+    font-family: 'Lato', sans-serif;
+font-size: 1.2rem;
+
+}
+.c1{
+
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 1.2rem;
+}

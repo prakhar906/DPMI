@@ -1,0 +1,63 @@
+.last-text{
+
+color: white;
+font-size: 4rem;
+margin-left: 53px;
+
+}
+.par{
+    color: white;
+margin-top: 35px;
+}
+.bdn{
+    color: white;
+    font-size: 1.4rem;
+    margin-left: 97px;
+}
+.logo{
+
+    font-size: 5rem;
+    color: #4da422;
+   
+}
+.bdn1{
+    font-size: 1.6rem;
+    color: #4da422;  
+    margin-left: 25px;
+}
+.res{
+margin: 2px 4px 5px 5px;
+    color: white;
+}
+.box{
+
+   
+    border-radius: 20px;
+    margin: 24px 174px 40px 6px;
+    background-color: #cdd0cb;
+}
+.n{
+    margin-left: 5px;
+    font-size: 20px;
+margin: 6px 3px 7px 47px;
+}
+.reshead{
+   
+text-align: center;
+}
+.upper{
+    background-color: #dddddd;
+}
+
+/* Admission form */
+
+.formdiv{
+    background-color: red;
+    width: auto;
+    height: auto;
+}
+.fh1{
+    color: green;
+    font-size: 40px;
+
+}
